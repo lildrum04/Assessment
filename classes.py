@@ -19,8 +19,8 @@ characters = {
         "name": "Yudrom",
         "HP": 100,
         "AC": 16,
-        "Attack_range": "25ft", # Wizard has 25ft attack range
-        "Damage_range": (1,10), # Wizard uses 1d10 for attack damage
-        "Special_ability": "Mana Shield"
+        "Attack_range": "5ft", # Barbarian has 5ft attack range
+        "Damage_range": (2,6), # Barbarian uses 2d6 for attack damage
+        "Special_ability": "Rage"
     }
 }

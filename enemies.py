@@ -17,7 +17,7 @@ enemies = {
         "Attack": [2,10] # Damage range for attacks (1d10)
     }
 }
-print(enemies["Goblin"])
-goblin_stats = enemies["Goblin"]
-for stat, value in goblin_stats.items():
-    print(f"Goblin's {stat}: {value}")
+#print(enemies["Goblin"])
+#goblin_stats = enemies["Goblin"]
+#for stat, value in goblin_stats.items():
+#    print(f"Goblin's {stat}: {value}")
